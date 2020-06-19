@@ -1,0 +1,1 @@
+These are pictures that are used in README files. You probably don't need them.
