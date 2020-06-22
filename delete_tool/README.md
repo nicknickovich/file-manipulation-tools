@@ -16,7 +16,7 @@ Assuming you've done the set up described in the root of the project.
 
 Go to the directory where your files are located and open command line by typing cmd in the line where path to the directory is displayed and pressing Enter key:
 
-![run cmd](../pictures/run_cmd.png "run cmd")
+![run cmd](../_pictures/run_cmd.png "run cmd")
 
 In command line type: delete_tool.py \<regexp\> [-r] [-d]
 - delete_tool.py is a name of the script and should always come first

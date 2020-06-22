@@ -31,15 +31,15 @@ Assuming you've done the set up described in the root of the project.
 
 Go to the directory where your files are located:
 
-![before padding](../pictures/pad_counter_01.png "before padding")
+![before padding](../_pictures/pad_counter_01.png "before padding")
 
 open command line by typing cmd in the line where path to the directory is displayed and pressing Enter key:
 
-![run cmd](../pictures/run_cmd.png "run cmd")
+![run cmd](../_pictures/run_cmd.png "run cmd")
 
 In command line type: pad_counters.py . myfile{}
 
-![after padding](../pictures/pad_counter_02.png "after padding")
+![after padding](../_pictures/pad_counter_02.png "after padding")
 
 Let's look at the structure of that command:
 - pad_counters.py is the name of the script
