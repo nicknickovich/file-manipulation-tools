@@ -18,9 +18,9 @@ Go to the directory where your files are located and open command line by typing
 
 ![run cmd](../pictures/run_cmd.png "run cmd")
 
-In command line type: delete_tool.py <regexp> [-r] [-d]
+In command line type: delete_tool.py \<regexp\> [-r] [-d]
 - delete_tool.py is a name of the script and should always come first
-- instead of <regexp> you need to provide a regular expression by which your files/directories will be filtered out. To learn more about regular expression syntax go to [Python documentation](https://docs.python.org/3.7/library/re.html#regular-expression-syntax)
+- instead of \<regexp\> you need to provide a regular expression by which your files/directories will be filtered out. To learn more about regular expression syntax go to [Python documentation](https://docs.python.org/3.7/library/re.html#regular-expression-syntax)
 
 Optional arguments:
 - directories (-d): script will look only for directories; by default script searches only for files and ignores directories
