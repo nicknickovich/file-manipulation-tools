@@ -1,4 +1,4 @@
-# rename.py
+# rename_files.py
 
 A command line tool to rename multiple similar files in a directory.
 
@@ -21,12 +21,12 @@ open command line by typing cmd in the line where path to the directory is displ
 
 ![run cmd](../pictures/run_cmd.png "run cmd")
 
-In command line type: rename.py . -p podcast_episode_ -e mp3
+In command line type: rename_files.py . -p podcast_episode_ -e mp3
 
 ![after renaming](../pictures/rename_02.png "after renaming")
 
 Structure of the command:
-- rename.py is the name of the script
+- rename_files.py is the name of the script
 - . (dot) means the path to the current location, you can also specify absolute or relative path here, but most of the time it's easier to just run cmd in the directory where your files are located and run the script with a dot for path
 - prefix (-p) and/or suffix (-s) for new name should be specified. Prefix is the part before counter, suffix is the part after it. If prefix or suffix conteins spaces, it should be surrounded by double quotes.
 
